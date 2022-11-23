@@ -31,3 +31,5 @@ SCAN(initial_value, array_or_range, LAMBDA)
     Syntax: LAMBDA(accumulator, current_value, formula_expression)
 ```
 The SCAN function is one of the LAMBDA helper functions in Google Sheets that returns an array or range by applying a custom LAMBDA formula
+
+![example_gif](https://user-images.githubusercontent.com/114103377/203515913-ca127bde-6c39-41a9-b98a-8e3d2c8509a6.gif)
