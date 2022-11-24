@@ -18,7 +18,7 @@ example:
 <img src="https://user-images.githubusercontent.com/114103377/200265998-5c36e045-3039-48bb-85bd-7b512f96f2d1.png" align="right" width="50%" />
 
 ### Merge cells
-When we merge cells, the cell becomes the value of the first nonblank cell. If more than one combined cell contains data, only the first is kept. The rest of the value is deleted. Value is carried over to the first cell and the rest goes blank. Therefore, getting data from a cell other than the first one returns blank.
+When we merge cells, the merged cell becomes the value of the first nonblank cell. If more than one combined cell contains data, only the first is kept. The rest of the value is deleted. Value is carried over to the first cell and the rest goes blank. Therefore, getting data from a cell other than the first one returns blank.
 
 ### SCAN function
 
